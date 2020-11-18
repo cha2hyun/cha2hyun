@@ -5,7 +5,7 @@
 
 
       
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcha2hyun-dev%2Fhit-counter&count_bg=%23555555&title_bg=%23B2B2B2&icon=&icon_color=%000000&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>  <a href="mailto:cha2hyun.dev@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge" height=20></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcha2hyun-dev%2Fhit-counter&count_bg=%23555555&title_bg=%23B2B2B2&icon=&icon_color=%23B2B2B2&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>  <a href="mailto:cha2hyun.dev@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge" height=20></a>
 
 <!--
 **cha2hyun-dev/cha2hyun-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
