@@ -1,6 +1,6 @@
-### 𝗛𝗲𝗹𝗹𝗼 <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"> <br>This is Soohyun, Chae   
+### 𝗛𝗲𝗹𝗹𝗼 <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"> 
 <hr>
-<a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a><a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"height=25></a> <a href="https://dev.to/mokkapps">
 
 
     - Majored in Computer Science 🎓
