@@ -1,6 +1,7 @@
 <h1>𝗛𝗲𝗹𝗹𝗼 <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"><br>𝗧𝗵𝗶𝘀 𝗶𝘀 𝗦𝗼𝗼𝗵𝘆𝘂𝗻, 𝗖𝗵𝗮𝗲</h1>
 
 <a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=ddd&logoColor=white" height=25></a>
 
       
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcha2hyun-dev%2Fhit-counter&count_bg=%23555555&title_bg=%23B2B2B2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
