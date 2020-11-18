@@ -1,4 +1,4 @@
-### Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"> <br>This is Soohyun, Chae  
+### Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"> <br>This is Soohyun, Chae   <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
     - Majored in Computer Science 🎓
       Sangmyung University, Seoul (a bachelor's degree)
