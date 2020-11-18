@@ -1,10 +1,10 @@
 ### Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"> <br>This is Soohyun, Chae  
 
-    - Majored in Computer Science
+    - Majored in Computer Science 🎓
       Sangmyung University, Seoul (a bachelor's degree)
       2014. MAR - Present
 
-    - Studied Digital Network
+    - Studied Digital Network 📚
       2011. MAR - 2014. MAR
 
 
