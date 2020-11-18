@@ -1,4 +1,4 @@
-<h1>𝗛𝗲𝗹𝗹𝗼 <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"><br>𝘁𝗵𝗶𝘀 𝗶𝘀 𝗦𝗼𝗼𝗵𝘆𝘂𝗻, 𝗖𝗵𝗮𝗲 </h1>
+<h1>𝗛𝗲𝗹𝗹𝗼 <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"><br𝐓𝐡𝐢𝐬 𝐢𝐬 𝐒𝐨𝐨𝐡𝐲𝐮𝐧, 𝐂𝐡𝐚𝐞 </h1>
 <a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
       
