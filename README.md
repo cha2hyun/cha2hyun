@@ -8,7 +8,14 @@
 <a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>  <a href="mailto:cha2hyun.dev@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge" height=20></a>
 <br>
 <br>
-풀스택이 되어보자 
+### Available Skills 🙃
+
+Front : `Next.js`, `React.js`, `React Native CLI`, `Typescript`, `TailwindCSS`
+<br>
+Back : `Django (DRF)`, `FastAPI`
+<br>
+Etc : `Docker`, `AWS`, `Figma`
+
 <!--
 **cha2hyun-dev/cha2hyun-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
