@@ -8,6 +8,11 @@
 <a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>  <a href="mailto:cha2hyun.dev@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge" height=20></a>
 <br>
 <br>
+
+### Blog
+
+https://cha2hyun.github.io/
+
 ### Available Skills 🙃
 
 Front : `Next.js`, `React.js`, `React Native CLI`, `Typescript`, `TailwindCSS`
