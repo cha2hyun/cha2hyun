@@ -18,11 +18,13 @@ https://cha2hyun.github.io/
 
 ### Available Skills 🙃
 
-Front : `Next.js`, `React.js`, `React Native CLI`, `Typescript`, `TailwindCSS`
+Front : `Next.js`, `React.js`, `React Native CLI`, `Typescript`, `TailwindCSS`, `Vanilla JS`
 <br>
 Back : `Django (DRF)`, `FastAPI`
 <br>
 Etc : `Docker`, `AWS`, `Figma`
+<br>
+Like : web-scrapping and make automation using `Python`
 
 <hr/>
 
