@@ -57,7 +57,7 @@ Like : web-scrapping and make automation using `Python`
   - `Python`, `raspberry pi`, `Tor-router`
 
 #### 낭만스키
-- https://nangmanski-web-v2-alewv2rm8-nangmanski.vercel.app/
+- https://nangmanski-web-v2.vercel.app
   - Roll : Project Manager and Full-Stack
   - Stack : `Next.js`, `Typescript`, `TailwindCSS`, `FastAPI`, `SpringBoot` `Docker`, `AWS`, `Vercel`, `Git Action`
 - Chatbot 
