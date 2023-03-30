@@ -16,7 +16,7 @@ https://cha2hyun.github.io/
 
 <hr/>
 
-### Available Skills 🙃
+### Skills 🙃
 
 Front : `Next.js`, `React.js`, `React Native CLI`, `Typescript`, `TailwindCSS`, `Vanilla JS`
 <br>
@@ -24,49 +24,10 @@ Back : `Django (DRF)`, `FastAPI`
 <br>
 Etc : `Docker`, `AWS`, `Figma`
 <br>
-Like : web-scrapping and make automation using `Python`
+Like : `web-scrapping`
 
 <hr/>
 
-### Projects
-#### 큐찾사
-- 🏆 2021 SMART APP AWARD 생활 쇼핑분야 최우수상
-- https://www.cue8949.com 
-  - Roll : Full-Stack
-  - Stack : `Next.js`, `Typescript`, `TailwindCSS`, `Django`, `Docker`, `AWS`
-- [App Store](https://apps.apple.com/app/id1524591264) / [Play Store](https://play.google.com/store/apps/details?id=com.cuechatsaapp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pli=1)
-  - Roll : Project Manager and Frontend
-  - Stack : `ReactNative CLI`, `Typescript`, `Django`, `Docker`, `AWS`, `Git Action`
-- Chatbot
-  - `Synology Chat (Django)`
-
-#### 김치빌리아드
-- https://www.kimchibilliards.com 
-  - Roll : Project Manager and Full-Stack
-  - Stack : `Jquery`, `Vanilla JS`, `Django`, `AWS`
-- Chatbot 
-  - `Synology Chat (Django)`, `Slack (Django)`
-
-#### 이앤에스마케팅 (Freelancer)
-- https://www.eandsmarketing.com 
-  - Roll : Full-Stack
-  - Stack : `React.js`, `Typescript`, `TailwindCSS`, `AWS`
-- Crawler
-  - `Python`, `Asyncio`
-- IP Address Changer 
-  - `Python`, `raspberry pi`, `Tor-router`
-
-#### 낭만스키
-- https://nangmanski-web-v2.vercel.app
-  - Roll : Project Manager and Full-Stack
-  - Stack : `Next.js`, `Typescript`, `TailwindCSS`, `FastAPI`, `SpringBoot` `Docker`, `AWS`, `Vercel`, `Git Action`
-- Chatbot 
-  - `Discord (FastAPI)`
-- Crawler 
-  - `FastAPI`
-
-
-<hr/>
 
 ### Contact
 
