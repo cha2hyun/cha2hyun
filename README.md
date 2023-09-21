@@ -20,11 +20,11 @@ https://cha2hyun.github.io/
 
 Front : `Next.js`, `React.js`, `React Native`, `Typescript`, `TailwindCSS`,
 <br>
-Back : `Django`, `FastAPI`
+Back : `NestJS`, `Django`, `FastAPI`
 <br>
 Etc : `Docker`, `AWS`
 <br>
-Like : `web-scrapping`
+Like : `web scrapping`
 
 <hr/>
 
