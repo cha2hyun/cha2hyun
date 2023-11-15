@@ -1,18 +1,12 @@
-### Hello <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px">
+### Hello im cha2hyun 🚀
 
 <!-- generate font : https://qwerty.dev/fancy-font-generator/ -->
 
 
       
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcha2hyun%2Fhit-counter&count_bg=%23D3D3D3&title_bg=%23D3D3D3&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)
-<a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>  <a href="mailto:cha2hyun.dev@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge" height=20></a>
+<a href="https://www.instagram.com/cha2hyun/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=20></a>  <a href="https://cha2hyun.github.io/"><img src="https://img.shields.io/badge/-BLOG-12345?style=for-the-badge" height=20></a>  <a href="mailto:cha2hyun.dev@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-100?style=for-the-badge" height=20></a>  
 <br>
-
-<hr/>
-
-### Blog
-
-https://cha2hyun.github.io/
 
 <hr/>
 
@@ -20,7 +14,7 @@ https://cha2hyun.github.io/
 
 Front : `Next.js`, `React.js`, `React Native`, `Typescript`, `TailwindCSS`,
 <br>
-Back : `NestJS`, `Django`, `FastAPI`
+Back : `Nest.js`, `Django`, `FastAPI`
 <br>
 Etc : `Docker`, `AWS`
 <br>
