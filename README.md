@@ -12,7 +12,7 @@
 
 ### Skills 🙃
 
-Front : `Next.js`, `React.js`, `React Native`, `Typescript`, `TailwindCSS`,
+Front : `Next.js`, `React.js`, `React Native`, `Typescript`, `TailwindCSS`
 <br>
 Back : `Nest.js`, `Django`, `FastAPI`
 <br>
